@@ -44,7 +44,7 @@ body {
 }
 .photo a:after {
     content: '';
-    background: transparent url(../img/icons/eye-icon.png) no-repeat center;
+    background: transparent url(eye-icon.png) no-repeat center;
     width: 52px;
     height: 35px;
     position: absolute;
